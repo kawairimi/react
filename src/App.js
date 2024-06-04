@@ -36,6 +36,7 @@ function ganadara () {
         <h4>{ title[0] } <span  onClick={likebotton}>👍🏻{iine}</span></h4>
         <p>2月17日発行</p>
         </div>
+        
         <div className='list'>
         <h4>{ title[1] }</h4>
         <p>2月24日発行</p>
